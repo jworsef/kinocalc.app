@@ -56,7 +56,7 @@ features                                  :
   
   - title                                 : Exposure Compensation Calculator
     description                           : Determines what changes must be made to counteract changes in exposure.
-    fontawesome_icon_name                 : lightbult
+    fontawesome_icon_name                 : lightbulb
   
   - title                                 : Safe Panning Calculator
     description                           : Calculate the maximum speed for a slow-pan to prevent juttering.
