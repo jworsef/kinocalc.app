@@ -34,41 +34,45 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Quick input
+    description                           : Custom designed input sliders for quick and precise value adjustments on the fly.
+    fontawesome_icon_name                 : sliders-h
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Choose your input
+    description                           : Your inputs and outputs aren't fixed in KinoCalc. Calculate DOF, or input your desired DOF and let KinoCalc calculate the camera changes needed to achieve it. 
+    fontawesome_icon_name                 : equals
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Responsive visualisation
+    description                           : KinoCalc visualises your DOF in a way that's intuitive and sensible.
+    fontawesome_icon_name                 : tv
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : DOF Calculator 
+    description                           : Calculate how to set up the perfect Depth of Field for your shot.
+    fontawesome_icon_name                 : video
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Focal Length Matcher
+    description                           : Find the lens required to match focal length between different cameras.
+    fontawesome_icon_name                 : ruler
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Exposure Compensation Calculator
+    description                           : Determines what changes must be made to counteract changes in exposure.
+    fontawesome_icon_name                 : lightbult
+  
+  - title                                 : Safe Panning Calculator
+    description                           : Calculate the maximum speed for a slow-pan to prevent juttering.
+    fontawesome_icon_name                 : sync-alt
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Solar Elevation Calculator
+    description                           : Calculate the angle of the sun and the phase of the moon at any time, at any place on Earth.
+    fontawesome_icon_name                 : sun
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Triangulation Calculator
+    description                           : Calculate any side or angle on a right-triangle. Perfect for calculating circle of confusion, lamp beam spread, etc.
+    fontawesome_icon_name                 : ruler-combined
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Eyelight / Chromakey Tool
+    description                           : Eyelight with full RGB or colour temperature options, with optional VFX tracking markers.
+    fontawesome_icon_name                 : eye
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
