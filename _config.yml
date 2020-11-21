@@ -59,11 +59,11 @@ features                                  :
     fontawesome_icon_name                 : lightbulb
   
   - title                                 : Safe Panning Calculator
-    description                           : Calculate the maximum speed for a slow-pan to prevent juttering.
+    description                           : Calculate the maximum speed for a pan to prevent juttering.
     fontawesome_icon_name                 : sync-alt
 
   - title                                 : Solar Elevation Calculator
-    description                           : Calculate the angle of the sun and the phase of the moon at any time, at any place on Earth.
+    description                           : Find the angle of the Sun and the phase of the Moon at any time, at any place on Earth.
     fontawesome_icon_name                 : sun
 
   - title                                 : Triangulation Calculator
